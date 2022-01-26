@@ -4,7 +4,6 @@ body{
 }
 
 
-
 .navbar{
     color: white;
     display: flex;
@@ -33,6 +32,15 @@ body{
     text-decoration: none;
 }
 
+.clicked-navLink{
+    text-decoration: underline; 
+    text-decoration-color: aliceblue
+}
+
+.slink:hover{
+    text-decoration: underline;
+    text-decoration-color: aliceblue;
+}
 
 
 .page1{
